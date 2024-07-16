@@ -1,0 +1,90 @@
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     6.99 **
+    4096 ,      8 ,      92.77
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     6.99 **
+    4096 ,     32 ,     103.55
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     6.99 **
+    4096 ,     64 ,      92.15
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     6.99 **
+    4096 ,    128 ,     104.00
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     6.99 **
+    4096 ,    256 ,     104.28
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   16384 ,      8 ,     403.39
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   16384 ,     32 ,     417.55
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   16384 ,     64 ,     425.37
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   16384 ,    128 ,     423.10
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   16384 ,    256 ,     425.02
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   65536 ,      8 ,    1305.13
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   65536 ,     32 ,    1600.56
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   65536 ,     64 ,    1647.71
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   65536 ,    128 ,    1657.45
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+   65536 ,    256 ,    1684.55
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+  262144 ,      8 ,     869.98
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+  262144 ,     32 ,     995.92
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+  262144 ,     64 ,     979.63
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+  262144 ,    128 ,    1025.94
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+  262144 ,    256 ,    1006.49
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+ 1048576 ,      8 ,    1509.36
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+ 1048576 ,     32 ,    2057.28
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+ 1048576 ,     64 ,    1954.11
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+ 1048576 ,    128 ,    2119.55
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.00, b =     7.00 **
+ 1048576 ,    256 ,    2168.11
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     7.00 **
+ 4194304 ,      8 ,     748.88
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     7.00 **
+ 4194304 ,     32 ,    6045.20
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     7.00 **
+ 4194304 ,     64 ,    6727.73
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     7.00 **
+ 4194304 ,    128 ,    6878.55
+I have selected Platform #0, Device #0: Vendor = NVIDIA, Type = CL_DEVICE_TYPE_GPU
+** m =     5.01, b =     7.00 **
+ 4194304 ,    256 ,    6752.92
